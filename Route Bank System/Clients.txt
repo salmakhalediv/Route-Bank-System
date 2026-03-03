@@ -1,0 +1,3 @@
+2,ibrahim,ibrahim12345,100000
+4,zyad,zyad12345,70000
+6,omar,omar12345,30000
